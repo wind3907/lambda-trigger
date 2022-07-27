@@ -1,0 +1,2 @@
+# lx036trn 11.30PM monday
+30 23 * * 1 %SOURCE_DB=rs036e;TARGET_DB=lx036trn;TARGET_SERVER==lx036trn
